@@ -48,6 +48,8 @@ When you change the passed var `startConfetti` to `true`, confetti will play abo
 The var need to be changed to `false` then `true` to retrigger the confetti.
 
 ### Parameters
+You can custom colors and images of confetti.
+
 All descriptions about parameters were written in comment in source code:
 ```swift
     /// - Parameters:
