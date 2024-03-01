@@ -1,4 +1,4 @@
-# ContributionChart
+# ConfettiWithSpriteView
 
 A SwiftUI confetti modifier created by SpriteKit.
 <p>
@@ -26,7 +26,7 @@ and paste in the repo's url:
 Or you can download the code of this repo, then `Add Local...` in Xcode, and open the folder of the repo.
 
 ## Usage
-- Import this package after you installed by `import ContributionChart`
+- Import this package after you installed by `import ConfettiWithSpriteKit`
 - Use the modifier like(check it out in DemoAPP inside this package)
 ```swift
 struct ContentView: View {
