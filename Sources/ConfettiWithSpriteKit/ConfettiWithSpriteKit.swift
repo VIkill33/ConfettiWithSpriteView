@@ -113,7 +113,7 @@ extension ConfettiView {
             particleEmitter.particleRotationSpeed = .pi / 6 // 旋转速度
             particleEmitter.particleRotationRange = .pi * 2
             particleEmitter.particleColorBlendFactor = 1 // 颜色混合因子
-            particleEmitter.particleBlendMode = .add // 混合模式
+            particleEmitter.particleBlendMode = .alpha // 混合模式
             emitters.append(particleEmitter)
         }
         for emitter in self.emitters {
