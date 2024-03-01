@@ -21,7 +21,7 @@ A SwiftUI confetti modifier created by SpriteKit.
 In Xcode go to `File -> Swift Packages -> Add Package Dependency` 
 and paste in the repo's url: 
 
-`https://github.com/VIkill33/SwiftUI-ContributionChart.git`
+`https://github.com/VIkill33/ConfettiWithSpriteView.git`
 
 Or you can download the code of this repo, then `Add Local...` in Xcode, and open the folder of the repo.
 
