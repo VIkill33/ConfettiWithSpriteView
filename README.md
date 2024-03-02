@@ -1,6 +1,6 @@
 # ConfettiWithSpriteView
 
-A SwiftUI confetti modifier created by SpriteKit.
+A SwiftUI confetti modifier created by SpriteKit. Easily to use and custom in SwiftUI.
 <p>
     <img src="https://img.shields.io/badge/iOS-14.0%2B-blue" />
     <img src="https://img.shields.io/badge/watchOS-6.0%2B-green" />
